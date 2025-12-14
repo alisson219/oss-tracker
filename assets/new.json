@@ -1,10 +1,756 @@
 {
   "metadata": {
-    "updated_at": "2025-12-13T01:26:31.065353",
+    "updated_at": "2025-12-14T01:45:48.094294",
     "source": "GitHub API",
     "api_url": "https://api.github.com/search/repositories",
     "description": "Recently created repositories (last 30 days)",
-    "count": 0
+    "count": 50
   },
-  "repositories": []
+  "repositories": [
+    {
+      "name": "zai-org/Open-AutoGLM",
+      "html_url": "https://github.com/zai-org/Open-AutoGLM",
+      "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+      "stargazers_count": 13668,
+      "forks_count": 2139,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:44:53Z",
+      "created_at": "2025-12-08T09:23:44Z",
+      "topics": [
+        "agent",
+        "phone-use-agent"
+      ]
+    },
+    {
+      "name": "karpathy/llm-council",
+      "html_url": "https://github.com/karpathy/llm-council",
+      "description": "LLM Council works together to answer your hardest questions",
+      "stargazers_count": 11113,
+      "forks_count": 1988,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:07:10Z",
+      "created_at": "2025-11-22T23:24:14Z",
+      "topics": []
+    },
+    {
+      "name": "Tongyi-MAI/Z-Image",
+      "html_url": "https://github.com/Tongyi-MAI/Z-Image",
+      "description": null,
+      "stargazers_count": 6787,
+      "forks_count": 380,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:23:29Z",
+      "created_at": "2025-11-26T09:18:10Z",
+      "topics": []
+    },
+    {
+      "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+      "html_url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+      "description": "🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library",
+      "stargazers_count": 3802,
+      "forks_count": 338,
+      "language": "TypeScript",
+      "updated_at": "2025-12-14T01:06:00Z",
+      "created_at": "2025-11-23T07:17:48Z",
+      "topics": [
+        "awesome",
+        "gemini-3-pro-image-preview",
+        "gemini-ai",
+        "nano-banana",
+        "nano-banana-2",
+        "nano-banana-pro",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "name": "HisMax/RedInk",
+      "html_url": "https://github.com/HisMax/RedInk",
+      "description": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+      "stargazers_count": 3596,
+      "forks_count": 697,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:45:29Z",
+      "created_at": "2025-11-25T10:12:54Z",
+      "topics": []
+    },
+    {
+      "name": "Facepunch/sbox-public",
+      "html_url": "https://github.com/Facepunch/sbox-public",
+      "description": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games",
+      "stargazers_count": 3355,
+      "forks_count": 215,
+      "language": "C#",
+      "updated_at": "2025-12-13T19:42:14Z",
+      "created_at": "2025-11-24T08:18:33Z",
+      "topics": [
+        "gamedev",
+        "sbox",
+        "source2"
+      ]
+    },
+    {
+      "name": "pshenok/server-survival",
+      "html_url": "https://github.com/pshenok/server-survival",
+      "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+      "stargazers_count": 3240,
+      "forks_count": 350,
+      "language": "JavaScript",
+      "updated_at": "2025-12-14T01:10:43Z",
+      "created_at": "2025-11-21T02:36:29Z",
+      "topics": [
+        "aws",
+        "cloud",
+        "devops",
+        "education",
+        "game",
+        "javascript",
+        "learning",
+        "open-source",
+        "simulation",
+        "threejs",
+        "tower-defense"
+      ]
+    },
+    {
+      "name": "straight-tamago/misaka26",
+      "html_url": "https://github.com/straight-tamago/misaka26",
+      "description": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. ",
+      "stargazers_count": 3064,
+      "forks_count": 129,
+      "language": null,
+      "updated_at": "2025-12-14T01:01:48Z",
+      "created_at": "2025-11-16T14:48:46Z",
+      "topics": []
+    },
+    {
+      "name": "donlon/cloudflare-error-page",
+      "html_url": "https://github.com/donlon/cloudflare-error-page",
+      "description": "Cloudflare error page generator",
+      "stargazers_count": 2792,
+      "forks_count": 140,
+      "language": "EJS",
+      "updated_at": "2025-12-14T01:39:24Z",
+      "created_at": "2025-11-19T12:00:12Z",
+      "topics": []
+    },
+    {
+      "name": "karpathy/reader3",
+      "html_url": "https://github.com/karpathy/reader3",
+      "description": "Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.",
+      "stargazers_count": 2613,
+      "forks_count": 333,
+      "language": "Python",
+      "updated_at": "2025-12-13T21:21:59Z",
+      "created_at": "2025-11-18T02:37:00Z",
+      "topics": []
+    },
+    {
+      "name": "Anionex/banana-slides",
+      "html_url": "https://github.com/Anionex/banana-slides",
+      "description": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌",
+      "stargazers_count": 2565,
+      "forks_count": 285,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:37:18Z",
+      "created_at": "2025-11-29T17:37:26Z",
+      "topics": [
+        "ai-ppt-maker",
+        "ai-slide-builder",
+        "ai-slides",
+        "llm",
+        "nanobananapro",
+        "ppt",
+        "ppt-generator",
+        "slides",
+        "text2image"
+      ]
+    },
+    {
+      "name": "assetnote/react2shell-scanner",
+      "html_url": "https://github.com/assetnote/react2shell-scanner",
+      "description": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)",
+      "stargazers_count": 2151,
+      "forks_count": 216,
+      "language": "Python",
+      "updated_at": "2025-12-13T23:28:28Z",
+      "created_at": "2025-12-04T06:55:04Z",
+      "topics": []
+    },
+    {
+      "name": "666OS/ClashMac",
+      "html_url": "https://github.com/666OS/ClashMac",
+      "description": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.",
+      "stargazers_count": 2133,
+      "forks_count": 79,
+      "language": null,
+      "updated_at": "2025-12-14T00:32:21Z",
+      "created_at": "2025-11-28T04:41:02Z",
+      "topics": [
+        "clash",
+        "clash-meta",
+        "macos",
+        "mihomo"
+      ]
+    },
+    {
+      "name": "mistralai/mistral-vibe",
+      "html_url": "https://github.com/mistralai/mistral-vibe",
+      "description": "Minimal CLI coding agent by Mistral",
+      "stargazers_count": 1902,
+      "forks_count": 134,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:19:40Z",
+      "created_at": "2025-12-08T18:56:59Z",
+      "topics": []
+    },
+    {
+      "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
+      "html_url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
+      "description": "HunyuanVideo-1.5: A leading lightweight video generation model",
+      "stargazers_count": 1890,
+      "forks_count": 91,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:18:55Z",
+      "created_at": "2025-11-20T06:15:42Z",
+      "topics": [
+        "image-to-video",
+        "text-to-video",
+        "video-generation"
+      ]
+    },
+    {
+      "name": "HKUDS/Paper2Slides",
+      "html_url": "https://github.com/HKUDS/Paper2Slides",
+      "description": "\"Paper2Slides: From Paper to Presentation in One Click\"",
+      "stargazers_count": 1849,
+      "forks_count": 236,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:24:34Z",
+      "created_at": "2025-12-07T06:15:43Z",
+      "topics": [
+        "agentic-ai",
+        "llm-agents",
+        "paper2poster",
+        "paper2slides"
+      ]
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "html_url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device TTS — running natively via ONNX.",
+      "stargazers_count": 1797,
+      "forks_count": 165,
+      "language": "JavaScript",
+      "updated_at": "2025-12-14T01:02:24Z",
+      "created_at": "2025-11-18T08:23:58Z",
+      "topics": [
+        "cpp",
+        "csharp",
+        "go",
+        "ios",
+        "java",
+        "lightweight",
+        "nodejs",
+        "on-device",
+        "python",
+        "rust",
+        "swift",
+        "text-to-speech",
+        "tts",
+        "web"
+      ]
+    },
+    {
+      "name": "glidea/banana-prompt-quicker",
+      "html_url": "https://github.com/glidea/banana-prompt-quicker",
+      "description": "🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[正在开发 Sidebar 高级功能，敬请期待]",
+      "stargazers_count": 1741,
+      "forks_count": 136,
+      "language": "JavaScript",
+      "updated_at": "2025-12-13T16:24:15Z",
+      "created_at": "2025-11-21T10:33:50Z",
+      "topics": [
+        "banana",
+        "gemini",
+        "prompt"
+      ]
+    },
+    {
+      "name": "hexagonal-sun/moss-kernel",
+      "html_url": "https://github.com/hexagonal-sun/moss-kernel",
+      "description": "Rust Linux-compatible kernel",
+      "stargazers_count": 1594,
+      "forks_count": 62,
+      "language": "Rust",
+      "updated_at": "2025-12-13T13:40:33Z",
+      "created_at": "2025-11-20T14:54:10Z",
+      "topics": []
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-Math-V2",
+      "html_url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
+      "description": null,
+      "stargazers_count": 1471,
+      "forks_count": 113,
+      "language": "Python",
+      "updated_at": "2025-12-13T15:35:40Z",
+      "created_at": "2025-11-27T06:12:26Z",
+      "topics": []
+    },
+    {
+      "name": "Rohithgilla12/data-peek",
+      "html_url": "https://github.com/Rohithgilla12/data-peek",
+      "description": "A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.",
+      "stargazers_count": 1384,
+      "forks_count": 72,
+      "language": "TypeScript",
+      "updated_at": "2025-12-13T23:01:49Z",
+      "created_at": "2025-11-28T09:36:04Z",
+      "topics": [
+        "developer-tools",
+        "electron",
+        "typescript"
+      ]
+    },
+    {
+      "name": "MadAppGang/dingo",
+      "html_url": "https://github.com/MadAppGang/dingo",
+      "description": "  A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility",
+      "stargazers_count": 1264,
+      "forks_count": 19,
+      "language": "Go",
+      "updated_at": "2025-12-14T00:49:20Z",
+      "created_at": "2025-11-16T03:56:10Z",
+      "topics": [
+        "ast",
+        "compiler",
+        "developer-tools",
+        "go",
+        "golang",
+        "gopls",
+        "language-server",
+        "lsp",
+        "parser"
+      ]
+    },
+    {
+      "name": "Tencent-Hunyuan/HunyuanOCR",
+      "html_url": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
+      "description": null,
+      "stargazers_count": 1260,
+      "forks_count": 99,
+      "language": "Python",
+      "updated_at": "2025-12-13T14:41:13Z",
+      "created_at": "2025-11-18T04:06:24Z",
+      "topics": []
+    },
+    {
+      "name": "Ayndpa/ConnectTool",
+      "html_url": "https://github.com/Ayndpa/ConnectTool",
+      "description": null,
+      "stargazers_count": 1248,
+      "forks_count": 95,
+      "language": "C++",
+      "updated_at": "2025-12-13T14:23:00Z",
+      "created_at": "2025-11-19T11:01:05Z",
+      "topics": []
+    },
+    {
+      "name": "byJoey/ech-wk",
+      "html_url": "https://github.com/byJoey/ech-wk",
+      "description": null,
+      "stargazers_count": 1222,
+      "forks_count": 689,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:44:26Z",
+      "created_at": "2025-12-06T07:20:27Z",
+      "topics": []
+    },
+    {
+      "name": "stepfun-ai/gelab-zero",
+      "html_url": "https://github.com/stepfun-ai/gelab-zero",
+      "description": "GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities.",
+      "stargazers_count": 1210,
+      "forks_count": 102,
+      "language": "Python",
+      "updated_at": "2025-12-13T18:06:25Z",
+      "created_at": "2025-11-28T14:42:44Z",
+      "topics": [
+        "agent",
+        "gui-agents",
+        "phone-use-agent",
+        "pua"
+      ]
+    },
+    {
+      "name": "msanft/CVE-2025-55182",
+      "html_url": "https://github.com/msanft/CVE-2025-55182",
+      "description": "Explanation and full RCE PoC for CVE-2025-55182",
+      "stargazers_count": 1204,
+      "forks_count": 174,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:32:03Z",
+      "created_at": "2025-12-04T11:49:55Z",
+      "topics": []
+    },
+    {
+      "name": "black-forest-labs/flux2",
+      "html_url": "https://github.com/black-forest-labs/flux2",
+      "description": "Official inference repo for FLUX.2 models",
+      "stargazers_count": 1191,
+      "forks_count": 60,
+      "language": "Python",
+      "updated_at": "2025-12-13T13:34:56Z",
+      "created_at": "2025-11-24T23:28:49Z",
+      "topics": []
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+      "stargazers_count": 1188,
+      "forks_count": 308,
+      "language": "Python",
+      "updated_at": "2025-12-14T00:12:44Z",
+      "created_at": "2025-11-30T11:36:31Z",
+      "topics": [
+        "ai-skills",
+        "antigravity",
+        "claude",
+        "claude-code",
+        "command-line",
+        "command-line-tool",
+        "copilot",
+        "cursor-ai",
+        "dashboard-templates",
+        "html5",
+        "kiro",
+        "kiro-dev",
+        "landing-page",
+        "mobile-ui",
+        "react",
+        "tailwindcss",
+        "ui-design",
+        "uikit",
+        "windsurf-ai"
+      ]
+    },
+    {
+      "name": "Gururagavendra/gmail-cleaner",
+      "html_url": "https://github.com/Gururagavendra/gmail-cleaner",
+      "description": "web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like",
+      "stargazers_count": 1139,
+      "forks_count": 57,
+      "language": "Python",
+      "updated_at": "2025-12-13T22:28:30Z",
+      "created_at": "2025-11-29T09:19:54Z",
+      "topics": [
+        "open-source",
+        "self-hosted"
+      ]
+    },
+    {
+      "name": "K-Dense-AI/karpathy",
+      "html_url": "https://github.com/K-Dense-AI/karpathy",
+      "description": "An agentic Machine Learning Engineer",
+      "stargazers_count": 1132,
+      "forks_count": 129,
+      "language": "Python",
+      "updated_at": "2025-12-13T13:15:07Z",
+      "created_at": "2025-11-16T22:39:26Z",
+      "topics": [
+        "agentic-ai",
+        "automl",
+        "machine-learning"
+      ]
+    },
+    {
+      "name": "repplus/rep",
+      "html_url": "https://github.com/repplus/rep",
+      "description": "rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks",
+      "stargazers_count": 1096,
+      "forks_count": 135,
+      "language": "JavaScript",
+      "updated_at": "2025-12-14T00:49:06Z",
+      "created_at": "2025-11-20T15:45:51Z",
+      "topics": [
+        "css",
+        "html",
+        "javascript",
+        "markdown"
+      ]
+    },
+    {
+      "name": "Norsico/Video-Materials-AutoGEN-Workstation",
+      "html_url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
+      "description": "一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。",
+      "stargazers_count": 1094,
+      "forks_count": 216,
+      "language": "Python",
+      "updated_at": "2025-12-13T20:16:53Z",
+      "created_at": "2025-11-18T13:04:59Z",
+      "topics": []
+    },
+    {
+      "name": "guhcostan/mac-cleaner-cli",
+      "html_url": "https://github.com/guhcostan/mac-cleaner-cli",
+      "description": null,
+      "stargazers_count": 1082,
+      "forks_count": 103,
+      "language": "TypeScript",
+      "updated_at": "2025-12-14T01:45:47Z",
+      "created_at": "2025-12-04T12:49:07Z",
+      "topics": []
+    },
+    {
+      "name": "PastKing/tgbot-verify",
+      "html_url": "https://github.com/PastKing/tgbot-verify",
+      "description": "一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。",
+      "stargazers_count": 1079,
+      "forks_count": 429,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:31:39Z",
+      "created_at": "2025-12-07T06:27:57Z",
+      "topics": []
+    },
+    {
+      "name": "buyukakyuz/install-nothing",
+      "html_url": "https://github.com/buyukakyuz/install-nothing",
+      "description": "A terminal application that simulates installing things but doesn't actually install anything",
+      "stargazers_count": 1058,
+      "forks_count": 28,
+      "language": "Rust",
+      "updated_at": "2025-12-13T15:46:20Z",
+      "created_at": "2025-11-17T22:03:19Z",
+      "topics": [
+        "cli",
+        "rust",
+        "simulation",
+        "terminal"
+      ]
+    },
+    {
+      "name": "dembrandt/dembrandt",
+      "html_url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "stargazers_count": 1054,
+      "forks_count": 113,
+      "language": "JavaScript",
+      "updated_at": "2025-12-14T01:12:22Z",
+      "created_at": "2025-11-22T13:49:09Z",
+      "topics": [
+        "automation",
+        "cli",
+        "component-library",
+        "design",
+        "design-system",
+        "design-systems",
+        "design-tokens",
+        "developer-tools",
+        "figma",
+        "frontend",
+        "playwright",
+        "productivity",
+        "reverse-engineering",
+        "ui",
+        "web-automation",
+        "web-scraping"
+      ]
+    },
+    {
+      "name": "IAmTomShaw/f1-race-replay",
+      "html_url": "https://github.com/IAmTomShaw/f1-race-replay",
+      "description": null,
+      "stargazers_count": 1017,
+      "forks_count": 159,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:13:04Z",
+      "created_at": "2025-11-21T17:37:05Z",
+      "topics": []
+    },
+    {
+      "name": "antonmedv/gitmal",
+      "html_url": "https://github.com/antonmedv/gitmal",
+      "description": "A static page generator for repos",
+      "stargazers_count": 956,
+      "forks_count": 33,
+      "language": "Go",
+      "updated_at": "2025-12-14T01:26:38Z",
+      "created_at": "2025-11-30T16:18:24Z",
+      "topics": [
+        "git",
+        "go",
+        "static-site-generator"
+      ]
+    },
+    {
+      "name": "AnandChowdhary/continuous-claude",
+      "html_url": "https://github.com/AnandChowdhary/continuous-claude",
+      "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+      "stargazers_count": 948,
+      "forks_count": 66,
+      "language": "Shell",
+      "updated_at": "2025-12-13T17:42:38Z",
+      "created_at": "2025-11-15T08:59:04Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "continuous-ai"
+      ]
+    },
+    {
+      "name": "cporter202/API-mega-list",
+      "html_url": "https://github.com/cporter202/API-mega-list",
+      "description": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪",
+      "stargazers_count": 940,
+      "forks_count": 208,
+      "language": "JavaScript",
+      "updated_at": "2025-12-14T00:58:58Z",
+      "created_at": "2025-12-09T15:36:20Z",
+      "topics": [
+        "api",
+        "api-library",
+        "api-list",
+        "apis"
+      ]
+    },
+    {
+      "name": "Alibaba-Quark/LiveAvatar",
+      "html_url": "https://github.com/Alibaba-Quark/LiveAvatar",
+      "description": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\"",
+      "stargazers_count": 940,
+      "forks_count": 78,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:08:36Z",
+      "created_at": "2025-12-04T11:06:10Z",
+      "topics": []
+    },
+    {
+      "name": "nari-labs/dia2",
+      "html_url": "https://github.com/nari-labs/dia2",
+      "description": "TTS model capable of streaming conversational audio in realtime.",
+      "stargazers_count": 912,
+      "forks_count": 76,
+      "language": "Python",
+      "updated_at": "2025-12-14T01:38:30Z",
+      "created_at": "2025-11-17T19:04:12Z",
+      "topics": [
+        "open-weight",
+        "text-to-speech"
+      ]
+    },
+    {
+      "name": "Hugo-Dz/spritefusion-pixel-snapper",
+      "html_url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+      "description": "A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.",
+      "stargazers_count": 889,
+      "forks_count": 23,
+      "language": "Rust",
+      "updated_at": "2025-12-14T00:00:34Z",
+      "created_at": "2025-11-24T13:56:05Z",
+      "topics": [
+        "game-development",
+        "gamedev",
+        "image-processing",
+        "pixel-art"
+      ]
+    },
+    {
+      "name": "YYsuni/2025-blog-public",
+      "html_url": "https://github.com/YYsuni/2025-blog-public",
+      "description": "开源blog，让你不写代码就开始写 blog，管理 blog 内容。无需服务器，无需费用。",
+      "stargazers_count": 877,
+      "forks_count": 345,
+      "language": "TypeScript",
+      "updated_at": "2025-12-13T18:57:03Z",
+      "created_at": "2025-11-16T13:32:46Z",
+      "topics": [
+        "blog",
+        "github-app"
+      ]
+    },
+    {
+      "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+      "html_url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+      "description": "Original Proof-of-Concepts for React2Shell CVE-2025-55182",
+      "stargazers_count": 865,
+      "forks_count": 85,
+      "language": "JavaScript",
+      "updated_at": "2025-12-14T01:35:08Z",
+      "created_at": "2025-12-05T08:00:07Z",
+      "topics": [
+        "cve-2025-55182",
+        "react2shell"
+      ]
+    },
+    {
+      "name": "Ryandonofrio3/osgrep",
+      "html_url": "https://github.com/Ryandonofrio3/osgrep",
+      "description": "Open Source Semantic Search for your AI Agent",
+      "stargazers_count": 861,
+      "forks_count": 49,
+      "language": "TypeScript",
+      "updated_at": "2025-12-13T21:23:39Z",
+      "created_at": "2025-11-21T06:14:31Z",
+      "topics": [
+        "colbert",
+        "embeddings",
+        "grep",
+        "grep-search"
+      ]
+    },
+    {
+      "name": "gavrielc/Nano-PDF",
+      "html_url": "https://github.com/gavrielc/Nano-PDF",
+      "description": "Edit PDF files with Nano Banana",
+      "stargazers_count": 857,
+      "forks_count": 54,
+      "language": "Python",
+      "updated_at": "2025-12-13T15:21:19Z",
+      "created_at": "2025-11-28T19:10:45Z",
+      "topics": []
+    },
+    {
+      "name": "gommzystudio/device-activity-tracker",
+      "html_url": "https://github.com/gommzystudio/device-activity-tracker",
+      "description": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)",
+      "stargazers_count": 840,
+      "forks_count": 135,
+      "language": "TypeScript",
+      "updated_at": "2025-12-14T01:42:19Z",
+      "created_at": "2025-12-07T14:56:14Z",
+      "topics": [
+        "baileys",
+        "exploit",
+        "messenger",
+        "nodejs",
+        "phone-number",
+        "poc",
+        "privacy",
+        "react",
+        "signal",
+        "tracking",
+        "typescript",
+        "vulnerability",
+        "whatsapp"
+      ]
+    },
+    {
+      "name": "SawyerHood/dev-browser",
+      "html_url": "https://github.com/SawyerHood/dev-browser",
+      "description": "A Claude Skill to give your agent the ability to use a web browser",
+      "stargazers_count": 777,
+      "forks_count": 49,
+      "language": "TypeScript",
+      "updated_at": "2025-12-14T01:36:28Z",
+      "created_at": "2025-12-02T19:20:20Z",
+      "topics": [
+        "claude-code",
+        "playwright",
+        "skills"
+      ]
+    }
+  ]
 }
